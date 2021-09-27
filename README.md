@@ -1,2 +1,5 @@
 # LabADA_GrupoC
-Entregables del laboratorio de Análisis de datos y Algoritmos
+
+Jessica Geraldine Hancco Velásquez
+Universidad Nacional de San Agustín
+Curso: Análisis y datos de Algoritmos - Laboratorio "C"   
