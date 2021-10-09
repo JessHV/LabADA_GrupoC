@@ -7,7 +7,7 @@ public class Matriz2D_Search {
 		// TODO Auto-generated method stub
 		
 		//CASO PRUEBA
-		int [][] matriz = crearMatriz(3,3);
+		int [][] matriz = crearMatriz(4,3);
 		System.out.println(matrizSearch(matriz, 8));
 		imprimir(matriz);
 	}
