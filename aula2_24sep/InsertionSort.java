@@ -1,4 +1,4 @@
-package ADA_lab;
+
 
 //Ejercicio 2
 public class InsertionSort {
@@ -7,7 +7,7 @@ public class InsertionSort {
 		
 		//Medidores de tiempo
 		long tieInicio, tieFin, tiempo;
-		tieInicio = System.currentTimeMillis();//Empieza el tiempo de ejecución
+		tieInicio = System.currentTimeMillis();//Empieza el tiempo de ejecuciï¿½n
 		
 		int [] arr = crearArr(8);
 		
@@ -18,7 +18,7 @@ public class InsertionSort {
 		//Medidores de tiempo
 		tieFin = System.currentTimeMillis();
 		tiempo = tieFin - tieInicio;
-		System.out.println("\nTiempo de ejecución en milisegundos: " + tiempo);
+		System.out.println("\nTiempo de ejecuciï¿½n en milisegundos: " + tiempo);
 	}
 	
 	public static void insertionSort(int [] arr) {
@@ -46,7 +46,7 @@ public class InsertionSort {
 		int [] arr  = new int[n];
 		for(int x = 0, y; x < n; x++) {
 			do {
-			y = (int)(Math.random()*100)+1; //Los números random son del 1 al 100
+			y = (int)(Math.random()*100)+1; //Los nï¿½meros random son del 1 al 100
 			}
 			while(encontrar(arr, y)==true); 
 			arr[x] = y;	

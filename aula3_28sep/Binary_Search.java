@@ -1,5 +1,3 @@
-package ADA_lab;
-
 //Ejercicio 1
 
 public class Binary_Search {

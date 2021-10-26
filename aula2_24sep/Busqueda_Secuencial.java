@@ -1,8 +1,8 @@
 
 import java.util.*;
 
-//Ejercicio 1: Busqueda secuencial
-public class Ejercicio1 {
+//Ejercicio 1: 
+public class Busqueda_Secuencial {
 	
 	public static void main(String[] args) {
 		
