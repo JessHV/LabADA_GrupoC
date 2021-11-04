@@ -1,8 +1,8 @@
 #Ejercicio 2
 
 '''
-Complejidad temporal/algorítmica: O(n)
-    Ya que recorre toda la longitud de num
+Complejidad temporal/algorítmica: O(log n)
+    Ya que recorre la mitad de las veces hasta n, log n en base 2
 '''
 def binarySearchMayOrEqu(A, num):
    L = 0
