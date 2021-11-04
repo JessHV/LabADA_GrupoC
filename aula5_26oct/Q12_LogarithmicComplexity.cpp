@@ -21,5 +21,5 @@ int main()
 /* 
 Complejidad en tiempo:
     El for interno tiene complejidad log n en base 2, que se repetirá n veces por el 2do for
-    O(n*log n) --> Complejidad logarítmica
+    O(n*log n) --> Complejidad logarítmica por n
 */
