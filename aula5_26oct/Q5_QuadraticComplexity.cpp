@@ -20,6 +20,6 @@ int main()
 
 /* 
 Complejidad en tiempo:
-    
+    De i = n a j = i, con 2 for, así que se repetiría n*(n+1)/2 = n*n/2+1/2 = n*n*1/2 
     O(n^2) --> Complejidad cuadrática
 */
