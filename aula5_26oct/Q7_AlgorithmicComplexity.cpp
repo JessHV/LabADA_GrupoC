@@ -16,8 +16,6 @@ int main()
 
 /* 
 Complejidad en tiempo:
-    De i = 1 a p + i > 30, hasta que las veces que p se sume al incremento de i y sea menor e igual a n
-    las veces hasta que i incrementará = k
-    k*(k+1)/2 > n = k*k/2>n = k*k>n => n^(1/2) 
-    O(n^(1/2)) --> Complejidad de raiz cuadrada
+    De i = 1 a 2^i >= n, 2^i = n, aplicando propiedades logarítmicas, k = log n en base 2 
+    O(log n) --> Complejidad logarítmica
 */
